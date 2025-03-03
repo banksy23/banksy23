@@ -1,6 +1,6 @@
 ### About Me
 
-👋 Hi there! I'm **Yejie Wang**, currently an M.S. student in Artificial Intelligence at [BUPT](http://www.bupt.edu.cn/). And now, I'm also part of the innovative team at [Moonshot AI](https://kimi.moonshot.cn/), where I contribute to cutting-edge AI projects. Previously, I earned my B.S. in Computer Science in 2019 and I also worked at [Meituan](https://www.meituan.com/en-US/about-us).
+👋 Hi there! I'm **Yejie Wang**, currently an M.S. student in Artificial Intelligence at [BUPT](http://www.bupt.edu.cn/). I'm also part of the innovative team at [Moonshot AI](https://kimi.moonshot.cn/), where I contribute to cutting-edge AI projects. Previously, I earned my B.S. in Computer Science in 2019 and I also worked at [Meituan](https://www.meituan.com/en-US/about-us).
 
 🔍 My research interests lie in LLM Post-Training techniques and leveraging AI to solve complex reasoning tasks, with a particular focus on code-related domains.
 
